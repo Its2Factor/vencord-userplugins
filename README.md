@@ -14,7 +14,7 @@ A curated collection of **custom Vencord plugins** not yet in the official repos
 
 | Plugin | Description | Status |
 |--------|-------------|--------|
-| 🔊 [VoiceChannelLogger](voiceChannelLogger/) | Tracks and logs voice channel activity | Released |
+| 🔊 [VoiceChannelLogger](https://github.com/Its2Factor/vc-voiceChannelLogger) | Tracks and logs voice channel activity | Released |
 
 <br>
 
