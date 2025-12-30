@@ -2,46 +2,42 @@
 
 # ⚡ 2Factor’s Vencord Plugins ⚡
 
-</div>
+[![Vencord](https://img.shields.io/badge/Vencord-Plugins-blue?style=flat-square)](LINK_TO_GUIDE_HERE)
 
-<div align="center">
-
-These are my **custom Vencord plugins** that haven’t landed in the official Vencord repository yet.
+A curated collection of **custom Vencord plugins** not yet in the official repository.
 
 </div>
 
-<br>
+---
 
-<div>
+## 🔌 Plugins
 
-🔊 **[VoiceChannelLogger](voiceChannelLogger/)**  
-Tracks and logs voice channel activity
+| Plugin | Description | Status |
+|--------|-------------|--------|
+| 🔊 [VoiceChannelLogger](voiceChannelLogger/) | Tracks and logs voice channel activity | Released |
 
-</div>
+---
 
-<br>
+## 🛠 Installation
 
-# Install
+> [!TIP] 
+> * If you need to install Vencord, follow the [Vencord installation guide](https://docs.vencord.dev/installing/custom-plugins/)
+> * If you don't know how to install userplugins, follow [this video by Syncxv](https://www.youtube.com/watch?v=8wexjSo8fNw) 
 
-If you don't know how to install userplugins in the first place please see the manual [Vencord installation guide](LINK_TO_GUIDE_HERE).
-
-> [!TIP]
-> There's also [this video by Syncxv](LINK_TO_VIDEO_HERE) which shows how to install a userplugin on Windows. Just be sure to replace the `git clone` command with the URL from the plugin you like
-
-Clone the repository inside your Vencord `src/userplugins` folder (create the `userplugins` folder if it doesn't exist)
+To install, clone the repository inside your Vencord src/userplugins folder (create the userplugins folder if it doesn't exist)
 
 ```bash
-cd Vencord/src/userplugins
+cd Documents/Vencord/src/userplugins
 git clone https://github.com/Its2Factor/vc-pluginName
 pnpm build
 ```
 
-# Update
+## 🔄 Update
 
-To update just pull the latest changes inside the repository folder and sync the changes
+To update, just pull the latest changes inside the repository folder and sync the changes
 
 ```bash
-cd Vencord/src/userplugins/vc-pluginName
+cd Documents/Vencord/src/userplugins/vc-pluginName
 git pull
 pnpm build
 ```
