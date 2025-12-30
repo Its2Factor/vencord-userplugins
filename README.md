@@ -32,7 +32,7 @@ Clone the repository inside your Vencord `src/userplugins` folder (create the `u
 
 ```bash
 cd Vencord/src/userplugins
-git clone [https://github.com/D3SOX/vc-pluginName](https://github.com/D3SOX/vc-pluginName)
+git clone [https://github.com/Its2Factor/vc-pluginName](https://github.com/Its2Factor/vc-pluginName)
 pnpm build
 ```
 
