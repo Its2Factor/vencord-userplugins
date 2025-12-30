@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ 2Factor’s Vencord Plugins ⚡
+# ⚡ 2Factor’s Vencord UserPlugins ⚡
 
 [![Vencord](https://img.shields.io/badge/Vencord-Plugins-blue?style=flat-square)](LINK_TO_GUIDE_HERE)
 
