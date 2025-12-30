@@ -27,7 +27,7 @@ Voice channel logger that tracks joins and leaves in real time with timestamps a
 To install, clone the repository inside your Vencord src/userplugins folder (create the userplugins folder if it doesn't exist)
 
 ```bash
-cd Documents/Vencord/src/userplugins
+cd Vencord/src/userplugins
 git clone https://github.com/Its2Factor/vc-pluginName
 pnpm build
 ```
@@ -37,7 +37,7 @@ pnpm build
 To update, pull the latest changes inside the repository folder and sync the changes
 
 ```bash
-cd Documents/Vencord/src/userplugins/vc-pluginName
+cd Vencord/src/userplugins/vc-pluginName
 git pull
 pnpm build
 ```
